@@ -42,6 +42,7 @@ Want to contribute? Fork this repository, add your project and send us a PR. If 
 - [jorgebucaran/**fish-tape**](https://github.com/jorgebucaran/fish-tape) - TAP producing test runner
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your Touch Bar in iTerm2
 - [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
+- [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
 
 ### Environment
 
